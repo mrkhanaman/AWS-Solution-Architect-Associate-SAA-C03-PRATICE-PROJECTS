@@ -1,5 +1,8 @@
 # AWS-Solution-Architect-Associate-SAA-C03-PRATICE-PROJECTS
+Practicing projects before exam.
 Professionals can explore the wide range of AWS offerings through AWS Projects. In addition, they can help you develop and enhance your web development, hosting, design, and deployment skills. You can get a better understanding of AWS by checking out open-source projects.
+
+Follwoing are the collection of open-source projects as part of my learning path for exam.
 
 # Beginners Level:
 ## 1. Windows/Linux Virtual Machine - Deployment
@@ -35,8 +38,7 @@ This project aims to train a machine learning model using SageMaker. It provides
 
 ## 10. Sentiment Analysis on Real-time Twitter Data
 This AWS project aims to create a system that can evaluate the sentiment of all real-time Tweets using a specified Twitter hashtag. Use a basic Python script to obtain real-time Twitter data. Put the Tweets directly into a Kinesis Firehose delivery stream with a transformation Lambda function from the script. Use Amazon Comprehend to get sentiment data and a cleaned/processed Twitter comment. Finally, an Elasticsearch domain saves the Tweet and its sentiment data, where custom charts will display real-time data.
-
-Github link- Sentiment Analysis on Real-time Twitter Data
+Reference Link: https://github.com/AWS-Big-Data-Projects/Analyzing-Twitter-in-real-time-with-Kinesis-Lambda-Comprehend-and-ElasticSearch 
 
 ## 11. Text-to-Speech Converter
 This machine learning project aims to develop an app that can convert text to speech. Text-to-Speech is an AI-based functionality witnessed in many websites and web apps. Google Text-to-Speech is one of the popularly used applications. With AWS Lambda & Amazon Polly, you can convert textual information to speech. The combination can provide you with the ability to develop lifelike speech synthesis applications. With Amazon Polly, you can use advanced deep learning technologies to carry out accurate conversions. AWS Lambda will provide the ability to improve the response rate as it will be critical in any of the real-time applications. 
