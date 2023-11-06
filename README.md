@@ -22,24 +22,24 @@ Log analytics, a typical Big Data use-case, enables you to monitor application a
 ## 6. K8s clusters on Amazon EC2 spot
 The project aims to set up Kubernetes clusters on Amazon EC2 Spot with 100% adherence to the best practices. Kubernetes is open-source and extremely popular in the cloud computing industry with abundant real-world applications. It is an excellent AWS project for beginners developing AWS and Kubernetes skills. Amazon EC2 is one of the foundational services of AWS, and you will have to work on the same. The service gets dynamic computing capabilities on the cloud. You shall take a step ahead and use Amazon EC2 Spot instances for this project. These instances and Kubernetes follow the same approach towards containers, so you will have the option to use both of them. In this project, you can build multiple node groups. Also, you shall focus on capacity optimization for allocation. It will make sure that the functions of the worker nodes are adequate. 
 
-## 6. Use Lex to Create Chatbots
+## 7. Use Lex to Create Chatbots
 The project’s goal is to develop a chatbot to provide instant replies to the messages sent by the users. Amazon and many other e-commerce android apps have chatbots installed to reply to users’ queries instantly. You can use Amazon Lex to build a chatbot and combine it with AWS Lambda for exceptional outcomes. Lex is the service specifically developed to simplify chatbot development. You can use the same to experience one-click deployment and add your application to the desired platform. Platform independence is also essential for the chatbots created using Amazon Lex. 
 
 # Advanced Level:
-## 7. Serverless Image Recognition Engine 
+## 8. Serverless Image Recognition Engine 
 The goal is to develop an application that can automatically recognize the images uploaded on the app. NatGeo image recognition is an example of a widely used real-world app. You can use AWS Lambda and several in-built functions to develop this machine learning project. For example, one of the Lambda functions will invoke the metadata in the image uploaded. The other will gather Rekognition to identify the patterns in the picture. You shall also use DynamoDB to maintain the back-end of the application. 
 
-## 8. Train a Machine Learning Model with SageMaker
+## 9. Train a Machine Learning Model with SageMaker
 Amazon SageMaker is one of the best machine learning services offered by Amazon.
 This project aims to train a machine learning model using SageMaker. It provides an integrated development environment (IDE) for machine learning, in which you can train your machine learning model with the help of insightful data. The IDE allows you to create notebooks, switch between steps, check results, and more. The best part of working with SageMaker is that it enables you to get the computer instances faster and in a highly efficient way. To further decrease the amount of effort invested, use the Autopilot feature of SageMaker to complete the process with much less effort
 
-## 9. Sentiment Analysis on Real-time Twitter Data
+## 10. Sentiment Analysis on Real-time Twitter Data
 This AWS project aims to create a system that can evaluate the sentiment of all real-time Tweets using a specified Twitter hashtag. Use a basic Python script to obtain real-time Twitter data. Put the Tweets directly into a Kinesis Firehose delivery stream with a transformation Lambda function from the script. Use Amazon Comprehend to get sentiment data and a cleaned/processed Twitter comment. Finally, an Elasticsearch domain saves the Tweet and its sentiment data, where custom charts will display real-time data.
 
 Github link- Sentiment Analysis on Real-time Twitter Data
 
-## 10. Text-to-Speech Converter
+## 11. Text-to-Speech Converter
 This machine learning project aims to develop an app that can convert text to speech. Text-to-Speech is an AI-based functionality witnessed in many websites and web apps. Google Text-to-Speech is one of the popularly used applications. With AWS Lambda & Amazon Polly, you can convert textual information to speech. The combination can provide you with the ability to develop lifelike speech synthesis applications. With Amazon Polly, you can use advanced deep learning technologies to carry out accurate conversions. AWS Lambda will provide the ability to improve the response rate as it will be critical in any of the real-time applications. 
 
-## 11. Personalized News Feed
+## 12. Personalized News Feed
 The goal is to create a personalized news feed based on the preferences and previous search and browsing history. Google uses this functionality to show the suggested articles in the mobile browser based on the search and browsing history. You can use AWS DynamoDB and AWS Lambda to develop a personalized content delivery platform. You will be required to extract the information from user touchpoints. DynamoDB stores the information for the application. Data stored and Lambda functions are the platforms to develop the user profiles. Associated parameters enable the creation of the customer feed. 
